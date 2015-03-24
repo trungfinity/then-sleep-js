@@ -1,0 +1,18 @@
+{
+  "name": "sleep-async",
+  "version": "1.0.0",
+  "description": "Sleep, asynchronously.",
+  "keywords": [
+    "sleep",
+    "async"
+  ],
+  "license": "MIT",
+  "author": "Trung Nguyen <i@meo.guru> (http://meo.guru)",
+  "files": [
+    "index.js"
+  ],
+  "repository": "meoguru/sleep-async-js",
+  "dependencies": {
+    "native-or-bluebird": "^1.2.0"
+  }
+}
