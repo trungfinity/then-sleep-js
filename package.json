@@ -1,5 +1,5 @@
 {
-  "name": "sleep-async",
+  "name": "then-sleep",
   "version": "1.0.0",
   "description": "Sleep, asynchronously.",
   "keywords": [
@@ -11,7 +11,7 @@
   "files": [
     "index.js"
   ],
-  "repository": "meoguru/sleep-async-js",
+  "repository": "meoguru/then-sleep-js",
   "dependencies": {
     "native-or-bluebird": "^1.2.0"
   }

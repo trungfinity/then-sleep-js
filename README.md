@@ -1,17 +1,17 @@
-# sleep-async
+# then-sleep
 
 Sleep, asynchronously.
 
 ## Installation
 
 ```sh
-npm i sleep-async -S
+npm i then-sleep -S
 ```
 
 ## Usage
 
 ```js
-var sleep = require('sleep-async');
+var sleep = require('then-sleep');
 
 // Sleep for 1 second and do something then.
 sleep(1000).then(...);
