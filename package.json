@@ -1,6 +1,6 @@
 {
   "name": "then-sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise-based sleeping.",
   "keywords": [
     "sleep",
