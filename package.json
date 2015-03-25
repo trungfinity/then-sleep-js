@@ -1,10 +1,10 @@
 {
   "name": "then-sleep",
   "version": "1.0.0",
-  "description": "Sleep, asynchronously.",
+  "description": "Promise-based sleeping.",
   "keywords": [
     "sleep",
-    "async"
+    "promise"
   ],
   "license": "MIT",
   "author": "Trung Nguyen <i@meo.guru> (http://meo.guru)",

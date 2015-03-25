@@ -1,6 +1,6 @@
 # then-sleep
 
-Sleep, asynchronously.
+Promise-based sleeping.
 
 ## Installation
 
