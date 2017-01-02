@@ -12,7 +12,7 @@
     "index.js"
   ],
   "repository": "meoguru/then-sleep-js",
-  "dependencies": {
-    "native-or-bluebird": "^1.2.0"
+  "engine": {
+    "node": ">=4.0.0"
   }
 }
