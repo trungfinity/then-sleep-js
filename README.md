@@ -10,11 +10,25 @@ npm i then-sleep -S
 
 ## Usage
 
+### With `.then()`
+
 ```js
 var sleep = require('then-sleep');
 
 // Sleep for 1 second and do something then.
 sleep(1000).then(...);
+```
+
+### With `async/await`
+```js
+const sleep = require('then-sleep');
+
+async function sleepThenDoSomething() {
+  await sleep(1000);
+  ...
+}
+
+sleepThenDoSomething();
 ```
 
 ## License
