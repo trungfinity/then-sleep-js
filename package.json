@@ -2,6 +2,7 @@
   "name": "then-sleep",
   "version": "1.0.1",
   "description": "Promise-based sleeping.",
+  "types": "./then-sleep.d.ts",
   "keywords": [
     "sleep",
     "promise"
